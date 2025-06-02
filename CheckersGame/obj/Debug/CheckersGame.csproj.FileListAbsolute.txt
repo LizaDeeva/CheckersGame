@@ -1,0 +1,16 @@
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\bin\Debug\CheckersGame.exe.config
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\bin\Debug\CheckersGame.exe
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\bin\Debug\CheckersGame.pdb
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.csproj.AssemblyReference.cache
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.Properties.Resources.resources
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.csproj.GenerateResource.cache
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\obj\Debug\Checkers.97632497.Up2Date
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.exe
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.pdb
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.exe.config
+C:\Users\Елизавета\source\repos\CheckersGame\CheckersGame\obj\Debug\CheckersGame.CheckersGameForm.resources
